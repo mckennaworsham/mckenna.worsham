@@ -1,18 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+  
     <title>McKenna Worsham Resume</title>
 
     <style>
-        body {
-            background-color: pink;
-            font-family: Arial, sans-serif;
-            margin: 40px;
-        }
+       <body style="background-color:pink">
 
-        h1, h2 {
-            color: rgb(151, 0, 0); /* dark red */
+        h1, h2 {font-color: rgb(151, 0, 0); /* dark red */
         }
     </style>
 </head>
@@ -48,7 +43,7 @@
         <li>Dependability</li>
     </ul>
 
-    <h2>Education</h2>
-    <ul>
 
+    <ul>
+</body>
 </html>
