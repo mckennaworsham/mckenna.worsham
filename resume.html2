@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>McKenna Worsham Resume</title>
+    
+    <style>
+        body {
+            background-color: pink;
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+
+        h1, h2 {
+            color: rgb(151, 0, 0);
+        }
+
+        img {
+            width: 150px;
+            border-radius: 10px;
+        }
+
+        ul {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>McKenna Worsham</h1>
+
+    <img src="IMG_1292.JPG" alt="Photo of McKenna Worsham">
+
+    <p>
+        I am a committed student who also works part time. I will graduate a full
+        year early in May 2027 with my Bachelor’s degree in Journalism and a
+        minor in Marketing. I love being involved in everything! I am creative
+        and diligent with my work and hope to work in news production.
+    </p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Leadership & Loyalty</li>
+        <li>Friendly & Hardworking</li>
+        <li>Responsible & Dependable</li>
+        <li>Team Player</li>
+        <li>Team Management</li>
+        <li>Community Service</li>
+        <li>Social Media Knowledge</li>
+        <li>Strong Communication</li>
+        <li>Patience & Empathy</li>
+        <li>Problem-Solving</li>
+        <li>Time Management</li>
+        <li>Strong Work Ethic</li>
+    </ul>
+
+    <h2>Education</h2>
+    <ul>
+        <li>
+            <strong>University of Oklahoma</strong> – Norman, OK<br>
+            Bachelor of Journalism (Minor in Marketing)<br>
+            Expected Graduation: May 2027<br>
+            Graduating one year early. Aspiring broadcast news producer.
+        </li>
+        <br>
+        <li>
+            <strong>Owasso High School</strong> – Owasso, OK<br>
+            High School Diploma, May 2024
+        </li>
+    </ul>
+
+</body>
+</html>
