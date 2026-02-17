@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<img src={IMG_1292.JPG"} alt="Photo of Mckenna" />. 
+<img src={"IMG_1292.JPG"} alt="Photo of Mckenna" />. 
 <title>McKenna Worsham Resume</title>
 <h1><style>="font-color: Dark red;</style> McKenna Worsham"</h1>
 </head>
